@@ -1,2 +1,4 @@
 hey ! Good Morning .
 this is vivek , i'm modifying accoring to my shift .
+
+Now i am studing about gitbranch , merge , rebase , merge conflict.
